@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ejercicio_011
+namespace Ejercicio_01
 {
     internal class Program
     {
@@ -15,7 +15,26 @@ namespace Ejercicio_011
             //del mismo.
             //Nota: usar dos ciclos: uno para guardar los números en el vector y otro para
             //recorrerlo y leerlo.
-            Console.WriteLine("Hola");
+
+            int[] n = new int[50];
+            int num ,suma = 0;
+            for (int x = 0; x < 50
+                ; x++)
+            {
+
+                Console.WriteLine("Ingrese un numero");
+                num = int.Parse(Console.ReadLine());
+                n[x] = num;
+
+                
+            }
+            for (int x = 0; x < 50; x++)
+            {
+
+                suma += n[x];
+            }
+            Console.WriteLine("La suma de los numeros en el vector es de: " + suma);
+
             Console.ReadKey();
         }
     }
