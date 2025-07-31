@@ -7,15 +7,15 @@ El curso está dividido en unidades temáticas que cubren los pilares básicos d
 
 | Unidad | Tema                   | Descripción breve                              |
 |--------|------------------------|------------------------------------------------|
-| 2      | Secuenciales           | Primeros programas con operaciones básicas     |
-| 3      | Condicionales          | Introducción a estructuras de decisión         |
-| 4      | Condicionales++        | Condicionales anidadas, múltiples opciones     |
-| 5      | Ciclos                 | Uso de bucles `while` y `for` simples          |
-| 6      | Ciclos++               | Bucles anidados + corte de control             |
-| 7      | Funciones              | Modularización de código con funciones         |
-| 8      | Vectores               | Introducción a arreglos unidimensionales       |
-| 9      | Lotes                  | Procesamiento por bloques de datos (lotes)     |
-| 10     | Cadenas                | Manejo de strings                              |
+| 1      | Secuenciales           | Primeros programas con operaciones básicas     |
+| 2      | Condicionales          | Introducción a estructuras de decisión         |
+| 3      | Condicionales++        | Condicionales anidadas, múltiples opciones     |
+| 4      | Ciclos                 | Uso de bucles `while` y `for` simples          |
+| 5      | Ciclos++               | Bucles anidados + corte de control             |
+| 6      | Funciones              | Modularización de código con funciones         |
+| 7      | Vectores               | Introducción a arreglos unidimensionales       |
+| 8      | Lotes                  | Procesamiento por bloques de datos (lotes)     |
+| 9      | Cadenas                | Manejo de strings                              |
 
 
 - Mejorar la lógica de programación
