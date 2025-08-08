@@ -10,7 +10,7 @@ El curso está dividido en unidades temáticas que cubren los pilares básicos d
 | 1      | Secuenciales           | Primeros programas con operaciones básicas     |
 | 2      | Condicionales          | Introducción a estructuras de decisión         |
 | 3      | Condicionales++        | Condicionales anidadas, múltiples opciones     |
-| 4      | Ciclos                 | Uso de bucles `while` y `for` simples          |
+| 4      | Ciclos                 | Uso de bucles `while`,`do-while` y `for`       |
 | 5      | Ciclos++               | Bucles anidados + corte de control             |
 | 6      | Funciones              | Modularización de código con funciones         |
 | 7      | Vectores               | Introducción a arreglos unidimensionales       |
