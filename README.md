@@ -1,6 +1,6 @@
 # Curso C# Nivel 1 - Fundamentos de Programación
 
-Este repositorio contiene más de **50 ejercicios de lógica** desarrollados en **C#** como parte del curso de nivel inicial. El enfoque está puesto en resolver problemas aplicando estructuras fundamentales del lenguaje.
+Este repositorio contiene más de **50 ejercicios de lógica** desarrollados en **C#** como parte del curso de nivel inicial de Maxiprograma. El enfoque está puesto en resolver problemas aplicando estructuras fundamentales del lenguaje.
 
 ## 🔍 Contenido del curso
 El curso está dividido en unidades temáticas que cubren los pilares básicos de la programación estructurada:
