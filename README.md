@@ -5,7 +5,7 @@ Este repositorio contiene más de **50 ejercicios de lógica** desarrollados en 
 ## 🔍 Contenido del curso
 El curso está dividido en unidades temáticas que cubren los pilares básicos de la programación estructurada:
 
-| Unidad | Tema                   | Descripción breve                              |
+| Unidad | Tema                   | Descripción                                    |
 |--------|------------------------|------------------------------------------------|
 | 1      | Secuenciales           | Primeros programas con operaciones básicas     |
 | 2      | Condicionales          | Introducción a estructuras de decisión         |
